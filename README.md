@@ -186,10 +186,4 @@ This project was developed as part of a GenAI internship program.
 
 ## 🎥 Demo Video
 
-(Add your Google Drive link here)
-
----
-
-## 🔗 LinkedIn Post
-
-(Add your LinkedIn post link here)
+https://drive.google.com/file/d/1AYEoQGCdQsdfg7cmkkGnBlY5oWkBBuLf/view?usp=vids_web
